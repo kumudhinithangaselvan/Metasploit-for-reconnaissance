@@ -45,7 +45,8 @@ Port Scanning: Following command is executed for scanning the systems on our loc
 
 
 
- ## Step4: use the db-nmap command to scan and save the results into Metasploit's postgresql attached database. In that way, you can use those results in the exploitation stage later.
+### Step 4: 
+use the db-nmap command to scan and save the results into Metasploit's postgresql attached database. In that way, you can use those results in the exploitation stage later.
 
 scan the targets with the command db_nmap as follows. msf > db_nmap 192.168.181.0/24
 
